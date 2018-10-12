@@ -1,0 +1,19 @@
+1. Write a program that would do heap sort - sort them in ascending order.
+
+a. make an array of at least 15 random numbers.
+
+b. Make a heap of that array.
+
+c. Sort the array using heap sort.
+
+You will submit the readme file with information on what platform you used and how to compile it
+
+Output:
+
+execution screen shot showing:
+
+a. initial array of random numbers showing the index in the array and the number stored in that index
+
+b. array after the heap has been made (same as before .. index and the number in that index)
+
+c. sorted array.
